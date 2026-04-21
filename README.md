@@ -42,7 +42,7 @@ Libraries: NumPy, Pandas, Scikit-learn, Matplotlib
 Interface: Web-based (Streamlit)
 Tools: VS Code
 
-🎯** Results**
+🎯**Results**
 Logistic Regression Accuracy: ~88%
 Provides accurate prediction with real-time analysis
 User-friendly and interactive system
